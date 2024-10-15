@@ -22,7 +22,7 @@ Hello, I am Minghua Liu (刘明华, aka Moon Ten) . I am a first-year Master stu
 
 ## 🔧Project Experiences
 
-- 2022.03 - 2022.12  [Academic Mutual Assistance Platform Based on WeChat Applet](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e606080b-1e26-476a-ba77-51dccc089314&_pageIndex=713&_id=e6051615-3507-43a9-99ea-d03836c7f681),  Host, supervised by Prof. [Han Li(李涵)](https://science.bistu.edu.cn/jxgz/dsfc/201609/t20160909_38999.html) 
+- 2022.03 - 2022.12  [Academic Mutual Assistance Platform Based on WeChat Applet](http://bjcxcy.bjtu.edu.cn/Index/ItemDetail?id=e606080b-1e26-476a-ba77-51dccc089314&_pageIndex=713&_id=e6051615-3507-43a9-99ea-d03836c7f681),  Host, supervised by Prof. [Han Li(李涵)](https://science.bistu.edu.cn/xygk/szdw/djx/436749.html) 
 
 - 2022.06 -    now     [Accurate determination of post-translational modification sites by integrating mass spectrometry and sequence multi-source information](https://www.izaiwen.cn/detail.NDQxNDc1.html),   Participant, supervised by Prof. [Yan Fu(付岩)](http://fugroup.amss.ac.cn/People/fuyan/index_en.htm)
 
