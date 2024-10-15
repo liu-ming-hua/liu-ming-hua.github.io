@@ -10,7 +10,7 @@ redirect_from:
 
 ## 🕛Now
 
-Hello, I am Minghua Liu (刘明华, aka Moon Ten) . I will become a first-year Master student at **Hangzhou Institute for Advanced Study, UCAS** ([HIAS](http://hias.ucas.ac.cn/), <img title="" src="../images/hias_logo.png" alt="" width="112">), **Institute of Software, Chinese Academy of Sciences** ([ISCAS](http://www.is.cas.cn/), <img title="" src="../images/iscas_logo.png" alt="" width="147">) , **State Key Laboratory of Computer Science** ([SKLCS](https://lcs.ios.ac.cn/), <img title="" src="../images/sklcs_logo.png" alt="" width="137"> ）and **Trustworthy Intelligent Systems Group** ([TIS](https://iscasmc.ios.ac.cn/)) from Sept. 2024, supervised by Prof. [Lijun Zhang(张立军)](https://iscasmc.ios.ac.cn/people/lijun-zhang/).
+Hello, I am Minghua Liu (刘明华, aka Moon Ten) . I am a first-year Master student at **Hangzhou Institute for Advanced Study, UCAS** ([HIAS](http://hias.ucas.ac.cn/), <img title="" src="../images/hias_logo.png" alt="" width="112">), **Institute of Software, Chinese Academy of Sciences** ([ISCAS](http://www.is.cas.cn/), <img title="" src="../images/iscas_logo.png" alt="" width="147">) , **State Key Laboratory of Computer Science** ([SKLCS](https://lcs.ios.ac.cn/), <img title="" src="../images/sklcs_logo.png" alt="" width="137"> ）and **Trustworthy Intelligent Systems Group** ([TIS](https://iscasmc.ios.ac.cn/)) from Sept. 2024, supervised by Prof. [Lijun Zhang(张立军)](https://iscasmc.ios.ac.cn/people/lijun-zhang/).
 
 ## 📖Education Experiences
 
