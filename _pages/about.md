@@ -34,6 +34,8 @@ Hello, I am Minghua Liu (刘明华, aka Moon Ten) . I am a second-year Master st
 
 ## 📃Publication
 
+[Beyond Semantic Equivalence: Logical Graphs for LLM Uncertainty Quantification](https://arxiv.org/abs/2607.16868v2)
+
 [刘明华,王乐乐,葛恒,等.基于微信小程序的学业互助平台研究与实现[J].微处理机,2023,44(05):21-26.](https://kns.cnki.net/kcms2/article/abstract?v=m22VhQxdXyfPWgATkBXXZDpeCczqbcUFBpk6uKY5fA2QjgLRmlrG7xnUiElCqMDYWPd3RMRHLY-4hiTF4yXGvDZ3bMZz49V6o-Y9FzCe6EZ4NqKvutrAAorl1a8LecnKDCUIufCrkucWN-OsB27XFg==&uniplatform=NZKPT&language=CHS)
 
 ## 🪀Hobby
