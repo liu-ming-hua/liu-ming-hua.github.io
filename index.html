@@ -23,6 +23,7 @@
         <a href="#research">Research</a>
         <a href="#publications">Publications</a>
         <a href="#projects">Projects</a>
+        <a href="#software">Software</a>
         <a href="#background">Background</a>
         <a class="nav-contact" href="mailto:liuminghua24@mails.ucas.ac.cn">Contact <span aria-hidden="true">↗</span></a>
       </nav>
@@ -85,8 +86,38 @@
       </div>
     </section>
 
-    <section class="section section-tinted" id="background" aria-labelledby="background-title"><div class="wrap">
-      <div class="section-heading"><div><p class="section-kicker">04 / Background</p><h2 id="background-title">Research foundations, engineering at scale.</h2></div></div>
+    <section class="section section-tinted" id="software" aria-labelledby="software-title"><div class="wrap">
+      <div class="section-heading"><div><p class="section-kicker">04 / Open-source &amp; engineering</p><h2 id="software-title">Ideas built into usable tools.</h2></div><p class="section-lead">Three projects where I made a concrete contribution, spanning uncertainty-aware reasoning, agent infrastructure, and data quality.</p></div>
+      <div class="software-grid">
+        <article class="software-card">
+          <div class="software-card-top"><span class="software-kind">Research prototype</span><span class="software-number">01 / 03</span></div>
+          <h3>UCRA</h3>
+          <p class="software-subtitle">Uncertainty-guided cross-source response acquisition</p>
+          <p>Uses semantic uncertainty to decide when to consult an additional model, then combines answers with source-aware weighting. The repository provides a lightweight Python reference implementation, examples, and tests.</p>
+          <div class="software-detail"><strong>What it shows</strong><span>Turning an uncertainty estimate into an explicit, testable decision policy.</span></div>
+          <div class="software-card-bottom"><span>LLM uncertainty · Python</span><a href="https://github.com/liu-ming-hua/UCRA" rel="noopener noreferrer" aria-label="View UCRA on GitHub">View repository ↗</a></div>
+        </article>
+        <article class="software-card">
+          <div class="software-card-top"><span class="software-kind">Agent infrastructure</span><span class="software-number">02 / 03</span></div>
+          <h3>lark-codex-bridge</h3>
+          <p class="software-subtitle">A local Codex agent in Feishu / Lark chats</p>
+          <p>Connects chat messages to a local Codex CLI, with per-conversation sessions, streaming replies, file handling, workspace controls, and access settings. Adapted from an existing bridge architecture for a different agent runtime.</p>
+          <div class="software-detail"><strong>What it shows</strong><span>Building an end-to-end agent workflow with practical state and deployment concerns.</span></div>
+          <div class="software-card-bottom"><span>Agents · TypeScript</span><a href="https://github.com/liu-ming-hua/lark-codex-bridge" rel="noopener noreferrer" aria-label="View lark-codex-bridge on GitHub">View repository ↗</a></div>
+        </article>
+        <article class="software-card">
+          <div class="software-card-top"><span class="software-kind">Data-centric AI</span><span class="software-number">03 / 03</span></div>
+          <h3>DataDoctor</h3>
+          <p class="software-subtitle">Dataset quality checks for robot learning</p>
+          <p>A ForgeAI Robotics toolkit for inspecting LeRobot datasets. Building on the upstream <em>lerobot-doctor</em> project, I contributed a full-video audit that decodes frames and locates visual anomalies by frame and time interval.</p>
+          <div class="software-detail"><strong>What it shows</strong><span>Connecting dataset validation to reliable model-training workflows.</span></div>
+          <div class="software-card-bottom"><span>Data quality · Python</span><a href="https://github.com/ForgeAI-Robotics/DataDoctor" rel="noopener noreferrer" aria-label="View DataDoctor on GitHub">View repository ↗</a></div>
+        </article>
+      </div>
+    </div></section>
+
+    <section class="section" id="background" aria-labelledby="background-title"><div class="wrap">
+      <div class="section-heading"><div><p class="section-kicker">05 / Background</p><h2 id="background-title">Research foundations, engineering at scale.</h2></div></div>
       <div class="background-grid">
         <div><h3 class="column-title">Education</h3><div class="timeline-item"><span class="timeline-date">2024—2027 (expected)</span><h4>MSc, Artificial Intelligence</h4><p>Institute of Software, Chinese Academy of Sciences / University of Chinese Academy of Sciences</p><p class="muted">Advisor: Prof. Lijun Zhang · GPA 3.93/4.00</p></div><div class="timeline-item"><span class="timeline-date">2021—2024</span><h4>BSc, Computational Mathematics</h4><p>Beijing Information Science &amp; Technology University</p></div></div>
         <div><h3 class="column-title">Experience</h3><div class="timeline-item"><span class="timeline-date">May—Aug 2026</span><h4>AI R&amp;D Intern · ByteDance</h4><p>Worked on pre-training data quality and large-scale processing workflows, a MoE model for document quality assessment, and automated PDF-understanding evaluation.</p></div><div class="timeline-item"><span class="timeline-date">Sep—Dec 2023</span><h4>NLP Intern · ByteDance</h4><p>Developed an LLM-agent workflow for table-based calculation using tool calls and executable Python to separate numerical computation from language generation.</p></div></div>
@@ -94,7 +125,7 @@
       <div class="recognition"><span class="recognition-label">Selected recognition</span><span>Beijing Outstanding Undergraduate Thesis · 2024</span><span>ICM/MCM Meritorious Winner · 2022</span></div>
     </div></section>
 
-    <section class="contact-section wrap" id="contact" aria-labelledby="contact-title"><div><p class="section-kicker">05 / Contact</p><h2 id="contact-title">Let’s talk research.</h2><p>I welcome conversations about uncertainty quantification, reliable language models, and research collaborations.</p></div><a class="contact-email" href="mailto:liuminghua24@mails.ucas.ac.cn">liuminghua24@mails.ucas.ac.cn <span aria-hidden="true">↗</span></a></section>
+    <section class="contact-section wrap" id="contact" aria-labelledby="contact-title"><div><p class="section-kicker">06 / Contact</p><h2 id="contact-title">Let’s talk research.</h2><p>I welcome conversations about uncertainty quantification, reliable language models, and research collaborations.</p></div><a class="contact-email" href="mailto:liuminghua24@mails.ucas.ac.cn">liuminghua24@mails.ucas.ac.cn <span aria-hidden="true">↗</span></a></section>
   </main>
   <footer class="site-footer"><div class="wrap footer-inner"><span>© 2026 Minghua Liu</span><span>Built with care for clear, verifiable research communication.</span><a href="#top">Back to top ↑</a></div></footer>
 </body>
