@@ -26,12 +26,6 @@ Hello, I am Minghua Liu (刘明华, aka Moon Ten) . I am a second-year Master st
 
 - 2022.06 -    2024.09     [Accurate determination of post-translational modification sites by integrating mass spectrometry and sequence multi-source information](https://www.izaiwen.cn/detail.NDQxNDc1.html),   Participant, supervised by Prof. [Yan Fu(付岩)](http://fugroup.amss.ac.cn/People/fuyan/index_en.htm)
 
-## 🆓Internships
-
-- 2022.06 -    2024.09      Project Student in [Yan Fu's Research Group](http://fugroup.amss.ac.cn/), **Academy of Mathematics and Systems Science, CAS** ([AMSS](http://www.amss.ac.cn/), <img title="" src="../images/amss_logo.png" alt="" width="73">)
-
-- 2023.09 - 2023.12  NLP Intern,  [**ByteDance**](https://www.bytedance.com/)(Now name is changed to **Douyin Group**, <img src="../images/bt_logo.png" title="" alt="" width="125">), [**Feishu**](https://www.larksuite.com/zh_cn)( <img title="" src="../images/feishu_logo.png" alt="" width="65"> ), Lark Platform Engineering-Intelligence Innovation-AI-Infrastructure and Platforms-Algorithm, Beijing
-
 ## 📃Publication
 
 [Beyond Semantic Equivalence: Logical Graphs for LLM Uncertainty Quantification](https://arxiv.org/abs/2607.16868v2)
@@ -55,6 +49,4 @@ I like watching **Ultralman**(ウルトラマンシリーズ, 奥特曼) and **K
 ## 👣Participate Work
 
 WeChat Applet: Li Yuan Xue Zhu(理院学助)
-
-[FeiFei](https://www.feishu.cn/product/ai_companion): Feishu's AI companion
 
