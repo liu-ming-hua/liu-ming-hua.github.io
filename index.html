@@ -94,10 +94,18 @@
     </section>
 
     <section class="section section-tinted" id="software" aria-labelledby="software-title"><div class="wrap">
-      <div class="section-heading"><div><p class="section-kicker">04 / Open-source &amp; engineering</p><h2 id="software-title">Ideas built into usable tools.</h2></div><p class="section-lead">Three projects where I made a concrete contribution, spanning uncertainty-aware reasoning, agent infrastructure, and data quality.</p></div>
+      <div class="section-heading"><div><p class="section-kicker">04 / Open-source &amp; engineering</p><h2 id="software-title">Ideas built into usable tools.</h2></div><p class="section-lead">Four projects spanning robot-policy evaluation, uncertainty-aware reasoning, agent infrastructure, and data quality.</p></div>
       <div class="software-grid">
+        <article class="software-card software-card-featured">
+          <div class="software-card-top"><span class="software-kind">Featured · Robot learning evaluation</span><span class="software-number">01 / 04</span></div>
+          <h3>VLAWorldEval</h3>
+          <p class="software-subtitle">Connecting vision-language-action policies with action-conditioned world models</p>
+          <p>An open-source framework for closed-loop policy evaluation and recorded-action replay. It keeps model runtimes isolated, makes camera and action contracts explicit, and saves videos, metrics, and provenance together for reproducible analysis.</p>
+          <div class="software-detail"><strong>What it shows</strong><span>Engineering evaluation workflows that expose model assumptions and preserve the evidence needed to interpret results.</span></div>
+          <div class="software-card-bottom"><span>Robot learning · Python</span><a href="https://github.com/liu-ming-hua/VLAWorldEval" rel="noopener noreferrer" aria-label="View VLAWorldEval on GitHub">View repository ↗</a></div>
+        </article>
         <article class="software-card">
-          <div class="software-card-top"><span class="software-kind">Research prototype</span><span class="software-number">01 / 03</span></div>
+          <div class="software-card-top"><span class="software-kind">Research prototype</span><span class="software-number">02 / 04</span></div>
           <h3>UCRA</h3>
           <p class="software-subtitle">Uncertainty-guided cross-source response acquisition</p>
           <p>Uses semantic uncertainty to decide when to consult an additional model, then combines answers with source-aware weighting. The repository provides a lightweight Python reference implementation, examples, and tests.</p>
@@ -105,7 +113,7 @@
           <div class="software-card-bottom"><span>LLM uncertainty · Python</span><a href="https://github.com/liu-ming-hua/UCRA" rel="noopener noreferrer" aria-label="View UCRA on GitHub">View repository ↗</a></div>
         </article>
         <article class="software-card">
-          <div class="software-card-top"><span class="software-kind">Agent infrastructure</span><span class="software-number">02 / 03</span></div>
+          <div class="software-card-top"><span class="software-kind">Agent infrastructure</span><span class="software-number">03 / 04</span></div>
           <h3>lark-codex-bridge</h3>
           <p class="software-subtitle">A local Codex agent in Feishu / Lark chats</p>
           <p>Connects chat messages to a local Codex CLI, with per-conversation sessions, streaming replies, file handling, workspace controls, and access settings. Adapted from an existing bridge architecture for a different agent runtime.</p>
@@ -113,7 +121,7 @@
           <div class="software-card-bottom"><span>Agents · TypeScript</span><a href="https://github.com/liu-ming-hua/lark-codex-bridge" rel="noopener noreferrer" aria-label="View lark-codex-bridge on GitHub">View repository ↗</a></div>
         </article>
         <article class="software-card">
-          <div class="software-card-top"><span class="software-kind">Data-centric AI</span><span class="software-number">03 / 03</span></div>
+          <div class="software-card-top"><span class="software-kind">Data-centric AI</span><span class="software-number">04 / 04</span></div>
           <h3>DataDoctor</h3>
           <p class="software-subtitle">Dataset quality checks for robot learning</p>
           <p>A ForgeAI Robotics toolkit for inspecting LeRobot datasets. Building on the upstream <em>lerobot-doctor</em> project, I contributed a full-video audit that decodes frames and locates visual anomalies by frame and time interval.</p>
